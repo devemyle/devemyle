@@ -1,26 +1,8 @@
-<img style="margin-right: 20px;" alt="Hi, I'm Emyle. Dev Front-end."  align='left' src='./assets/giphy.gif'>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ununtu&lines=Hi%2C+I'm+Emyle.+Dev+Front-end.)](https://git.io/typing-svg)
+<img style="margin-right: 20px;" alt="Hi, I'm Emyle. Dev Front-end."  align='left' src='./assets/giphy.gif'>
 
-<br/> 
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ununtu&lines=Hi%2C+I'm+Emyle.+Dev+Front-end.)](https://git.io/typing-svg)
 
 <br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/> 
-
-<br/> 
-
-
-
-
 
 ## 🖥️ Languages and Tools
 
