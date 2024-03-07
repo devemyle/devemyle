@@ -10,5 +10,13 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title = "dotnet"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "csharp"/></code>
 
+<br/>
+<br/>
 
+## 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=devemyle&theme=transparent&hide_border=true&hide_longest_streak=false)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devemyle&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+##
+![](https://komarev.com/ghpvc/?username=devemyle&style=flat-square)
 
